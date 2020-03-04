@@ -1,0 +1,28 @@
+{
+  "ausencias46": [
+    {
+      "nombre": "Causa 1",
+      "y": 23.4,
+      "drilldown": "c1",
+      "cantidad": 2456754
+    },
+    {
+      "nombre": "Causa 2",
+      "y": 40,
+      "drilldown": "c2",
+      "cantidad": 2456754
+    },
+    {
+      "nombre": "Causa 3",
+      "y": 14.6,
+      "drilldown": "c3",
+      "cantidad": 2456754
+    },
+    {
+      "nombre": "Causa 4",
+      "y": 22,
+      "drilldown": "c4",
+      "cantidad": 2456754
+    }
+  ]
+}
