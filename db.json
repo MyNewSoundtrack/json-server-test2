@@ -24,5 +24,29 @@
       "drilldown": "c4",
       "cantidad": 2456754
     }
+  ],
+  ,
+  "candidatos": [
+    {
+      "id": 1,
+      "name": "Luis",
+      "description": "Ing. Informático Desarrollador PAC",
+      "img": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "name": "Felipe",
+      "description": "Ing. Informático Desarrollador PAC",
+      "img": "https://cdn.pixabay.com/photo/2019/11/08/11/56/cat-4611189_960_720.jpg",
+      "votes": 0
+    },
+    {
+      "id": 3,
+      "name": "Nathalie",
+      "description": "Disenadora Gráfica PAC",
+      "img": "https://4al52k24l8r51wpym5i46ltd-wpengine.netdna-ssl.com/wp-content/uploads/sites/2/2020/02/GettyImages-1199242002-1-1024x576.jpg",
+      "votes": 0
+    }
   ]
 }
