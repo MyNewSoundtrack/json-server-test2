@@ -52,5 +52,23 @@
     {
       "avance": 53
     }
+  ],
+  "procesos-general-unidad": [
+    {
+      "nombre": "Unidad 1",
+      "cantidad": 23
+    },
+    {
+      "nombre": "Unidad 2",
+      "cantidad": 127
+    },
+    {
+      "nombre": "Unidad 3",
+      "cantidad": 66
+    },
+    {
+      "nombre": "Unidad 4",
+      "cantidad": 10
+    }
   ]
 }
