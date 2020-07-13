@@ -66,5 +66,47 @@
       "nombre": "Comandante de Comando de Personal",
       "cantidad": 267
     }
+  ],
+  "menu-sidebar":[
+    {
+      "id_unidad": 1,
+      "nom_unidad": "Unidad 1",
+      "id_unint": 1,
+      "nom_unint": "unidad interna 1",
+      "id_cat": 1,
+      "nom_cat": "Licencia Médica"
+    },
+    {
+      "id_unidad": 1,
+      "nom_unidad": "Unidad 1",
+      "id_unint": 1,
+      "nom_unint": "unidad interna 1",
+      "id_cat": 2,
+      "nom_cat": "Vacaciones"
+    },
+    {
+      "id_unidad": 2,
+      "nom_unidad": "Unidad 2",
+      "id_unint": 2,
+      "nom_unint": "unidad interna 2",
+      "id_cat": 3,
+      "nom_cat": "Retiro"
+    },
+    {
+      "id_unidad": 2,
+      "nom_unidad": "Unidad 2",
+      "id_unint": 2,
+      "nom_unint": "unidad interna 2",
+      "id_cat": 4,
+      "nom_cat": "Destinación"
+    },
+    {
+      "id_unidad": 3,
+      "nom_unidad": "Unidad 3",
+      "id_unint": 3,
+      "nom_unint": "unidad interna 3",
+      "id_cat": 5,
+      "nom_cat": "Ascenso"
+    }
   ]
 }
